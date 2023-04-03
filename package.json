@@ -1,0 +1,13 @@
+{
+  "name": "lightning-talks",
+  "private": true,
+  "scripts": {
+    "example": "slidev --open slides/example.md"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.6",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  }
+}
