@@ -4,6 +4,10 @@ class: 'text-center'
 lineNumbers: true
 transition: slide-left
 css: unocss
+fonts:
+  sans: 'Robot'
+  serif: 'Robot Slab'
+  mono: 'Fira Code'
 ---
 
 # Welcome to Slidev

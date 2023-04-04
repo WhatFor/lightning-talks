@@ -2,7 +2,8 @@
   "name": "lightning-talks",
   "private": true,
   "scripts": {
-    "example": "slidev --open slides/example.md"
+    "example": "slidev --open slides/example.md",
+    "message-buses": "slidev --open slides/message-buses.md"
   },
   "dependencies": {
     "@slidev/cli": "^0.40.6",
